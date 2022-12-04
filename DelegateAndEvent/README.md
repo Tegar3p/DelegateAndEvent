@@ -1,4 +1,4 @@
-# TugasDelegateDanEvent #
-- Tugas Pertemuan 8 Mata Kuliah Pemrograman lanjut
-- Nama: Ariza Akmal Syahida
-- Nim: 21.11.4105
+#DelegateDanEvent#
+* Tugas Pertemuan 8 Pemrograman lanjut
+* Nama: Tegar Tri Putrawana
+* NIM : 21.11.4111
